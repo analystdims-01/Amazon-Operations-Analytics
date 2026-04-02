@@ -1,4 +1,4 @@
-select * from Amazon_sales_rpt;
+SELECT * from Amazon_sales_rpt;
 
 SELECT 
 COUNT (Status) as Cancelled_orders,
