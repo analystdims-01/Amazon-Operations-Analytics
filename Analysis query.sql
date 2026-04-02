@@ -14,8 +14,6 @@ WHERE Status IN ('Shipped','Shipped-Deliverd to Buyer')
 GROUP BY Status,Fulfilment
 
 
-
-
 SELECT COUNT(Status) AS Canceled_status,
 ship_state
 FROM Amazon_sales_rpt
