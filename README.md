@@ -52,7 +52,7 @@ The dataset includes transactional Amazon sales data with:
 * Sales_Channel
 * Style
 * Size
-* Asin  etc
+* Ship_state  etc
 ---
 
 🧹 Data Cleaning & Preparation
@@ -62,6 +62,8 @@ The dataset includes transactional Amazon sales data with:
 * Removed duplicates and ensured **accurate aggregation at order level**
 * Validated key metrics such as **Revenue and Order Count**
 * Ensured consistent use of **one version of truth across all visuals**
+<img width="1920" height="1020" alt="Power Query view" src="https://github.com/user-attachments/assets/c9d27dfd-00ce-4ba2-9eaa-af721ac97e92" />
+
 
 ---
 
